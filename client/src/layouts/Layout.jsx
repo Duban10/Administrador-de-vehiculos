@@ -9,7 +9,7 @@ export default function Layout() {
         <h1 className='text-2xl py-10 text-center font-extrabold text-white sm:text-4xl'>
             Administrador de Vehiculos
         </h1>
-        <img src="/auto.png" alt="Logo Autogermana" className='w-[30%] h-[30%] hidden sm:block' />
+        <img src="/auto.png" alt="Logo Autogermana" className='w-[30%] h-[30%] hidden sm:block filter invert' />
       </div>
 
     </header>
